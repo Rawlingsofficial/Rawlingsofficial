@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rawlingsofficial
 - 👀 I’m interested in ...programming 
-- 🌱 I’m currently learning ...software engineering 
-- 💞️ I’m looking to collaborate on ...web development 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me .redit MUKHEN RAWLING#6034
 
 <!---
