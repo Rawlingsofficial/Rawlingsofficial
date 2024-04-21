@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rawlingsm](https://medium.com/@rawlingsm)
 
-- 💬 Ask me about ** Machine Learning and AI**
+- 💬 Ask me about **Machine Learning and AI**
 
 - 📫 How to reach me **rawlingsofficial300@gmail.com**
 
