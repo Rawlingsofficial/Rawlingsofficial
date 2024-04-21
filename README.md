@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rawling</h1>
-<h3 align="center">A passionate Data Scientist.</h3>
+<h1 align="center">Hi 👋, I'm Rawling Mukhen</h1>
+<h3 align="center"> Data Scientist | ML Engineer | Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawlingsofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rawlingsofficial" /> </p>
 
-- 🌱 I’m currently learning **Data science, AI/ML, java**
+- 🌱 I’m currently intrested in **Data science, AI/ML**
 
 - 📝 I regularly write articles on [https://medium.com/@rawlingsm](https://medium.com/@rawlingsm)
 
-- 💬 Ask me about **Python,backend, arts**
+- 💬 Ask me about ** Machine Learning and AI**
 
 - 📫 How to reach me **rawlingsofficial300@gmail.com**
 
-- ⚡ Fun fact **I Love all things Data**
+- ⚡ Fun fact **Im Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
